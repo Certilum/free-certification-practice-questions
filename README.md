@@ -18,6 +18,9 @@ Our goal isn't just to provide answers, but to foster understanding through deta
 
 ## Available Certifications
 
+- <img src="https://pub-6a9f8dede1194a7786cba69e7dcdad9f.r2.dev/providers/Adobe" width="2%" align="absmiddle"> **Adobe**
+  - **Adobe Certified Expert - Adobe Analytics Business Practitioner**
+    - [Foundation](certifications/Adobe/Adobe%20Certified%20Expert%20-%20Adobe%20Analytics%20Business%20Practitioner/foundation.md)
 - <img src="https://pub-6a9f8dede1194a7786cba69e7dcdad9f.r2.dev/providers/AWS" width="2%" align="absmiddle"> **Amazon Web Services**
   - **AWS Certified AI Practitioner**
     - [Foundation](certifications/Amazon%20Web%20Services/AWS%20Certified%20AI%20Practitioner/foundation.md)
@@ -25,9 +28,162 @@ Our goal isn't just to provide answers, but to foster understanding through deta
   - **AI Framework for Transformation (AIFT)**
     - [Foundation](certifications/APMG%20International/AI%20Framework%20for%20Transformation%20(AIFT)/foundation.md)
 
+- <img src="https://pub-6a9f8dede1194a7786cba69e7dcdad9f.r2.dev/providers/Arista_Networks" width="2%" align="absmiddle"> **Arista**
+  - **ACE: Cloud Automation Architect**
+    - [Foundation](certifications/Arista/ACE:%20Cloud%20Automation%20Architect/foundation.md)
+- <img src="https://pub-6a9f8dede1194a7786cba69e7dcdad9f.r2.dev/providers/Astronomer" width="2%" align="absmiddle"> **Astronomer**
+  - **Apache Airflow DAG Authoring**
+    - [Foundation](certifications/Astronomer/Apache%20Airflow%20DAG%20Authoring/foundation.md)
+- <img src="https://pub-6a9f8dede1194a7786cba69e7dcdad9f.r2.dev/providers/Avaya" width="2%" align="absmiddle"> **Avaya**
+  - **AXP Public Cloud Administrator**
+    - [Foundation](certifications/Avaya/AXP%20Public%20Cloud%20Administrator/foundation.md)
+- <img src="https://pub-6a9f8dede1194a7786cba69e7dcdad9f.r2.dev/providers/Blue_Prism" width="2%" align="absmiddle"> **Blue Prism**
+  - **Associate Developer**
+    - [Foundation](certifications/Blue%20Prism/Associate%20Developer/foundation.md)
+- <img src="https://pub-6a9f8dede1194a7786cba69e7dcdad9f.r2.dev/providers/Broadcom" width="2%" align="absmiddle"> **Broadcom**
+  - **VCAP - VMware Cloud Foundation Automation**
+    - [Foundation](certifications/Broadcom/VCAP%20-%20VMware%20Cloud%20Foundation%20Automation/foundation.md)
+- <img src="https://pub-6a9f8dede1194a7786cba69e7dcdad9f.r2.dev/providers/Cisco" width="2%" align="absmiddle"> **Cisco**
+  - **CCIE Enterprise Infrastructure**
+    - [Foundation](certifications/Cisco/CCIE%20Enterprise%20Infrastructure/foundation.md)
+- <img src="https://pub-6a9f8dede1194a7786cba69e7dcdad9f.r2.dev/providers/Cloudera" width="2%" align="absmiddle"> **Cloudera**
+  - **CDP Administrator - Private Cloud Base**
+    - [Foundation](certifications/Cloudera/CDP%20Administrator%20-%20Private%20Cloud%20Base/foundation.md)
+- <img src="https://pub-6a9f8dede1194a7786cba69e7dcdad9f.r2.dev/providers/CompTIA" width="2%" align="absmiddle"> **CompTIA**
+  - **CompTIA CySA+**
+    - [Foundation](certifications/CompTIA/CompTIA%20CySA+/foundation.md)
+- <img src="https://pub-6a9f8dede1194a7786cba69e7dcdad9f.r2.dev/providers/Crest" width="2%" align="absmiddle"> **CREST**
+  - **Certified Incident Manager**
+    - [Foundation](certifications/CREST/Certified%20Incident%20Manager/foundation.md)
+- <img src="https://pub-6a9f8dede1194a7786cba69e7dcdad9f.r2.dev/providers/Databricks" width="2%" align="absmiddle"> **Databricks**
+  - **Databricks Certified Data Engineer Associate**
+    - [Foundation](certifications/Databricks/Databricks%20Certified%20Data%20Engineer%20Associate/foundation.md)
+- <img src="https://pub-6a9f8dede1194a7786cba69e7dcdad9f.r2.dev/providers/DevOps%20Institute.png" width="2%" align="absmiddle"> **DevOps Institute**
+  - **DevOps Foundation**
+    - [Foundation](certifications/DevOps%20Institute/DevOps%20Foundation/foundation.md)
+- <img src="https://pub-6a9f8dede1194a7786cba69e7dcdad9f.r2.dev/providers/Google" width="2%" align="absmiddle"> **Google Cloud**
+  - **Google Associate Cloud Engineer**
+    - [Foundation](certifications/Google%20Cloud/Google%20Associate%20Cloud%20Engineer/foundation.md)
+- <img src="https://pub-6a9f8dede1194a7786cba69e7dcdad9f.r2.dev/providers/Microsoft" width="2%" align="absmiddle"> **Microsoft**
+  - **Microsoft Certified: Azure Administrator Associate**
+    - [Foundation](certifications/Microsoft/Microsoft%20Certified:%20Azure%20Administrator%20Associate/foundation.md)
+- <img src="https://pub-6a9f8dede1194a7786cba69e7dcdad9f.r2.dev/providers/PMI" width="2%" align="absmiddle"> **Project Management Institute**
+  - **Certified Associate in Project Management**
+    - [Foundation](certifications/Project%20Management%20Institute/Certified%20Associate%20in%20Project%20Management/foundation.md)
+- <img src="https://pub-6a9f8dede1194a7786cba69e7dcdad9f.r2.dev/providers/Salesforce" width="2%" align="absmiddle"> **Salesforce**
+  - **Salesforce Certified Platform Administrator**
+    - [Foundation](certifications/Salesforce/Salesforce%20Certified%20Platform%20Administrator/foundation.md)
+- <img src="https://pub-6a9f8dede1194a7786cba69e7dcdad9f.r2.dev/providers/Scaled_Agile.png" width="2%" align="absmiddle"> **Scaled Agile**
+  - **SAFe Scrum Master 6.0**
+    - [Foundation](certifications/Scaled%20Agile/SAFe%20Scrum%20Master%206.0/foundation.md)
+- <img src="https://pub-6a9f8dede1194a7786cba69e7dcdad9f.r2.dev/providers/Scrum" width="2%" align="absmiddle"> **Scrum.org**
+  - **Professional Scrum Master I**
+    - [Foundation](certifications/Scrum.org/Professional%20Scrum%20Master%20I/foundation.md)
 - <img src="https://pub-6a9f8dede1194a7786cba69e7dcdad9f.r2.dev/providers/Snowflake" width="2%" align="absmiddle"> **Snowflake**
   - **SnowPro Core Certification**
     - [Foundation](certifications/Snowflake/SnowPro%20Core%20Certification/foundation.md)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
