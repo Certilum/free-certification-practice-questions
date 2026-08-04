@@ -18,7 +18,7 @@ Our goal isn't just to provide answers, but to foster understanding through deta
 
 ## Available Certifications
 
-- <img src="https://pub-6a9f8dede1194a7786cba69e7dcdad9f.r2.dev/providers/Amazon_Web_Services" width="2%" align="absmiddle"> **Amazon Web Services**
+- <img src="https://pub-6a9f8dede1194a7786cba69e7dcdad9f.r2.dev/providers/AWS" width="2%" align="absmiddle"> **Amazon Web Services**
   - **AWS Certified AI Practitioner**
     - [Foundation](certifications/Amazon%20Web%20Services/AWS%20Certified%20AI%20Practitioner/foundation.md)
 - <img src="https://pub-6a9f8dede1194a7786cba69e7dcdad9f.r2.dev/providers/APMG_International" width="2%" align="absmiddle"> **APMG International**
@@ -28,6 +28,9 @@ Our goal isn't just to provide answers, but to foster understanding through deta
 - <img src="https://pub-6a9f8dede1194a7786cba69e7dcdad9f.r2.dev/providers/Snowflake" width="2%" align="absmiddle"> **Snowflake**
   - **SnowPro Core Certification**
     - [Foundation](certifications/Snowflake/SnowPro%20Core%20Certification/foundation.md)
+
+
+
 
 
 ---

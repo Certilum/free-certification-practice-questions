@@ -23,7 +23,7 @@
 |-------|-------|
 | Total Questions | 30 |
 | Level | Foundation |
-| Exported At | 2026-08-04T05:39:00.657Z |
+| Exported At | 2026-08-04T06:14:54.749Z |
 | Domains | 5 |
 
 ## 📊 Domain Distribution
@@ -69,7 +69,7 @@
 <details>
 <summary> 🔍 Reveal Answer</summary>
    
-#### **✅ Correct Answer: A**
+#### **✅ Correct Answer: A, D**
  
 > 💡  **Explanation** 
 > 
@@ -79,6 +79,10 @@
 </details>
 
 ### 3. Analyze the code block. What does this code do when invoked in a Python script using the AWS SDK (boto3)?
+
+```python
+response = client.synthesize_speech(Text='Hello world', OutputFormat='mp3', VoiceId='Joanna')
+```
 
 - [ ] **A)** Synthesize speech from text
 - [ ] **B)** Transcribe audio to text
@@ -126,7 +130,7 @@
 <details>
 <summary> 🔍 Reveal Answer</summary>
    
-#### **✅ Correct Answer: A**
+#### **✅ Correct Answer: A, C**
  
 > 💡  **Explanation** 
 > 
@@ -136,6 +140,10 @@
 </details>
 
 ### 6. Examine the following SageMaker API call from the AWS CLI. What does the '--resource-type' value indicate about the resource being created?
+
+```bash
+aws sagemaker create-hyper-parameter-tuning-job --hyper-parameter-tuning-job-name my-tuning-job --resource-type 'TrainingJob'
+```
 
 - [ ] **A)** A model version in Model Registry
 - [ ] **B)** A training job
@@ -207,7 +215,7 @@
 <details>
 <summary> 🔍 Reveal Answer</summary>
    
-#### **✅ Correct Answer: B**
+#### **✅ Correct Answer: B, D**
  
 > 💡  **Explanation** 
 > 
@@ -217,6 +225,10 @@
 </details>
 
 ### 10. Given the following SQL query, which AWS service is being used to execute it?
+
+```sql
+SELECT count(*) FROM sales_data WHERE year = 2023;
+```
 
 - [ ] **A)** AWS Glue
 - [ ] **B)** Amazon Athena
@@ -288,7 +300,7 @@
 <details>
 <summary> 🔍 Reveal Answer</summary>
    
-#### **✅ Correct Answer: A**
+#### **✅ Correct Answer: A, B**
  
 > 💡  **Explanation** 
 > 
@@ -298,6 +310,10 @@
 </details>
 
 ### 14. After executing the following AWS CLI command, what approval status is assigned to the registered model version?
+
+```bash
+aws sagemaker register-model-version --model-package-group-name my-group --model-package-version-arn arn:aws:sagemaker:us-east-1:123456789012:model-package/my-group/1 --approval-description 'initial model'
+```
 
 - [ ] **A)** Approved
 - [ ] **B)** PendingApproval
@@ -345,7 +361,7 @@
 <details>
 <summary> 🔍 Reveal Answer</summary>
    
-#### **✅ Correct Answer: A**
+#### **✅ Correct Answer: A, B**
  
 > 💡  **Explanation** 
 > 
@@ -355,6 +371,15 @@
 </details>
 
 ### 17. The code snippet creates a SageMaker Pipeline step. What is the purpose of the 'ConditionStep' in this pipeline?
+
+```python
+step_cond = ConditionStep(
+    conditions=[ConditionLessThanOrEqualTo(left=eval_metric, right=0.05)],
+    if_steps=[register_model],
+    else_steps=[fail_step]
+)
+
+```
 
 - [ ] **A)** It runs a training job in parallel
 - [ ] **B)** It evaluates metrics and determines whether to register the model
@@ -407,7 +432,7 @@
 <details>
 <summary> 🔍 Reveal Answer</summary>
    
-#### **✅ Correct Answer: A**
+#### **✅ Correct Answer: A, B**
  
 > 💡  **Explanation** 
 > 
@@ -417,6 +442,12 @@
 </details>
 
 ### 20. The following code snippet uses an AWS API to detect objects in an image. Which AWS service is being invoked?
+
+```python
+import boto3
+rekognition = boto3.client('rekognition')
+response = rekognition.detect_labels(Image={'S3Object':{'Bucket':'my-bucket','Name':'photo.jpg'}})
+```
 
 - [ ] **A)** Amazon Rekognition
 - [ ] **B)** Amazon Textract
@@ -464,7 +495,7 @@
 <details>
 <summary> 🔍 Reveal Answer</summary>
    
-#### **✅ Correct Answer: A**
+#### **✅ Correct Answer: A, C**
  
 > 💡  **Explanation** 
 > 
@@ -474,6 +505,16 @@
 </details>
 
 ### 23. The code trains a model using historical customer data with a column 'churned' as the target. What type of ML problem is this?
+
+```python
+import pandas as pd
+from sklearn.ensemble import RandomForestClassifier
+data = pd.read_csv('customer_data.csv')
+X = data.drop('churned', axis=1)
+y = data['churned']
+model = RandomForestClassifier()
+model.fit(X, y)
+```
 
 - [ ] **A)** Supervised classification
 - [ ] **B)** Unsupervised clustering
@@ -526,7 +567,7 @@
 <details>
 <summary> 🔍 Reveal Answer</summary>
    
-#### **✅ Correct Answer: A**
+#### **✅ Correct Answer: A, B**
  
 > 💡  **Explanation** 
 > 
@@ -536,6 +577,19 @@
 </details>
 
 ### 26. Review the code snippet. Which parameter controls the type of instance used for training?
+
+```python
+from sagemaker.estimator import Estimator
+
+estimator = Estimator(
+    image_uri='<image>',
+    role='arn:aws:iam::123456789012:role/SageMakerRole',
+    instance_count=1,
+    instance_type='ml.c5.xlarge',
+    volume_size=30,
+    max_run=3600
+)
+```
 
 - [ ] **A)** instance_type
 - [ ] **B)** instance_count
@@ -583,7 +637,7 @@
 <details>
 <summary> 🔍 Reveal Answer</summary>
    
-#### **✅ Correct Answer: B**
+#### **✅ Correct Answer: B, C, D**
  
 > 💡  **Explanation** 
 > 
@@ -593,6 +647,15 @@
 </details>
 
 ### 29. Examine the training output. What does the divergence of validation loss from training loss indicate?
+
+```plaintext
+# Sample training log output
+Epoch 1: train_loss=2.5, val_loss=2.6
+Epoch 2: train_loss=1.8, val_loss=1.9
+Epoch 3: train_loss=1.2, val_loss=1.4
+Epoch 4: train_loss=0.8, val_loss=1.7
+Epoch 5: train_loss=0.5, val_loss=2.1
+```
 
 - [ ] **A)** Overfitting
 - [ ] **B)** Underfitting

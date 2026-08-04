@@ -11,11 +11,11 @@
 
 ## 📑 Table of Contents
 
-- [Account Management and Data Governance](#account-management-data-governance) (6 questions)
+- [Account Management and Data Governance](#account-management-and-data-governance) (6 questions)
 - [Data Collaboration](#data-collaboration) (3 questions)
-- [Data Loading, Unloading and Connectivity](#data-loading-unloading-connectivity) (6 questions)
-- [Performance Optimization, Querying and Transformation](#performance-optimization-querying-transformation) (6 questions)
-- [Snowflake AI Data Cloud Features and Architecture](#snowflake-ai-data-cloud-features-architecture) (9 questions)
+- [Data Loading, Unloading and Connectivity](#data-loading-unloading-and-connectivity) (6 questions)
+- [Performance Optimization, Querying and Transformation](#performance-optimization-querying-and-transformation) (6 questions)
+- [Snowflake AI Data Cloud Features and Architecture](#snowflake-ai-data-cloud-features-and-architecture) (9 questions)
 
 ## 📋 Exam Information
 
@@ -30,15 +30,15 @@
 
 | Domain | Questions |
 |--------|-----------|
-| Account Management & Data Governance | 6 |
+| Account Management and Data Governance | 6 |
 | Data Collaboration | 3 |
-| Data Loading, Unloading & Connectivity | 6 |
-| Performance Optimization, Querying & Transformation | 6 |
-| Snowflake AI Data Cloud Features & Architecture | 9 |
+| Data Loading, Unloading and Connectivity | 6 |
+| Performance Optimization, Querying and Transformation | 6 |
+| Snowflake AI Data Cloud Features and Architecture | 9 |
 
 ---
 
-### **Account Management & Data Governance**
+### **Account Management and Data Governance**
 
 ### 1. Which Snowflake role is the highest-level super-user role that encompasses both SYSADMIN and USERADMIN privileges?
 
@@ -219,7 +219,7 @@
 
 ---
 
-### **Data Loading, Unloading & Connectivity**
+### **Data Loading, Unloading and Connectivity**
 
 ### 10. What is the primary command for bulk loading data from staged files into a Snowflake table?
 
@@ -338,7 +338,7 @@
 
 ---
 
-### **Performance Optimization, Querying & Transformation**
+### **Performance Optimization, Querying and Transformation**
 
 ### 16. What is the primary purpose of a clustering key in Snowflake?
 
@@ -457,7 +457,7 @@
 
 ---
 
-### **Snowflake AI Data Cloud Features & Architecture**
+### **Snowflake AI Data Cloud Features and Architecture**
 
 ### 22. Analyze the SQL command and determine which layer is being used to store the query result for reuse.
 
