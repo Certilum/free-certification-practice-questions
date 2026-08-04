@@ -18,9 +18,13 @@ Our goal isn't just to provide answers, but to foster understanding through deta
 
 ## Available Certifications
 
-- **Snowflake**
+- <img src="https://pub-6a9f8dede1194a7786cba69e7dcdad9f.r2.dev/providers/Snowflake" width="1.2%"> **Snowflake**
   - **SnowPro Core Certification**
     - [Foundation](certifications/Snowflake/SnowPro%20Core%20Certification/foundation.md)
+
+- <img src="https://pub-6a9f8dede1194a7786cba69e7dcdad9f.r2.dev/providers/APMG_International" width="1.2%"> **APMG International**
+  - **AI Framework for Transformation (AIFT)**
+    - [Foundation](certifications/APMG%20International/AI%20Framework%20for%20Transformation%20(AIFT)/foundation.md)
 
 ---
 
@@ -82,5 +86,5 @@ This project is licensed under the MIT License. Question content is available fo
 ---
 
 <p align="center">
-  <em>Made by Certilum — Free certification practice for everyone</em>
+  <em>Made by [Certilum](https://certilum.com/) — with love</em>
 </p>

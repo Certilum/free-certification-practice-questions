@@ -1,30 +1,26 @@
-<table>
-<tr>
-<td><img src="https://pub-6a9f8dede1194a7786cba69e7dcdad9f.r2.dev/certifications/Snowflake/Snow%20Core" width="50%"></td>
-<td>
-
-# 📝 SnowPro Core Certification — Foundation Level
-
-> 📋 30 practice questions | 5 domains | Foundation level
-> 🎯 Test your knowledge and prepare for the certification exam
-
-</td>
-</tr>
+<table width="100%">
+  <tr>
+    <td align="center" valign="middle" width="50%">
+      <p align="center"><img src="https://pub-6a9f8dede1194a7786cba69e7dcdad9f.r2.dev/certifications/Snowflake/Snow%20Core" width="50%"></p>
+    </td>
+    <td align="center" valign="middle" width="50%">
+      <h1>SnowPro Core Certification</h1>
+    </td>
+  </tr>
 </table>
 
 ## 📑 Table of Contents
 
-- [Account Management & Data Governance](#account-management-data-governance) (6 questions)
+- [Account Management and Data Governance](#account-management-data-governance) (6 questions)
 - [Data Collaboration](#data-collaboration) (3 questions)
-- [Data Loading, Unloading & Connectivity](#data-loading-unloading-connectivity) (6 questions)
-- [Performance Optimization, Querying & Transformation](#performance-optimization-querying-transformation) (6 questions)
-- [Snowflake AI Data Cloud Features & Architecture](#snowflake-ai-data-cloud-features-architecture) (9 questions)
+- [Data Loading, Unloading and Connectivity](#data-loading-unloading-connectivity) (6 questions)
+- [Performance Optimization, Querying and Transformation](#performance-optimization-querying-transformation) (6 questions)
+- [Snowflake AI Data Cloud Features and Architecture](#snowflake-ai-data-cloud-features-architecture) (9 questions)
 
 ## 📋 Exam Information
 
 | Field | Value |
 |-------|-------|
-| Exam ID | 106 |
 | Total Questions | 30 |
 | Level | Foundation |
 | Exported At | 2026-08-04T00:25:49.016Z |
@@ -52,13 +48,15 @@
 - [ ] **D)** USERADMIN
 
 <details>
-<summary>🔍 Reveal Answer</summary>
-
-✅ **Correct Answer: A**
-
-[!TIP]
-> 💡 ACCOUNTADMIN is the top-level role that includes both SYSADMIN and USERADMIN privileges, providing full account control.
-
+<summary> 🔍 Reveal Answer</summary>
+   
+#### **✅ Correct Answer: A**
+ 
+> 💡  **Explanation** 
+> 
+> ACCOUNTADMIN is the top-level role that includes both SYSADMIN and USERADMIN privileges, providing full account control.
+ 
+ 
 </details>
 
 ### 2. Which of the following statements about the SYSADMIN role are correct? (Select two.)
@@ -69,13 +67,15 @@
 - [ ] **D)** It can create databases and schemas.
 
 <details>
-<summary>🔍 Reveal Answer</summary>
-
-✅ **Correct Answer: A**
-
-[!TIP]
-> 💡 SYSADMIN can create warehouses, databases, and schemas, but cannot create roles or manage users; those require USERADMIN or ACCOUNTADMIN.
-
+<summary> 🔍 Reveal Answer</summary>
+   
+#### **✅ Correct Answer: A**
+ 
+> 💡  **Explanation** 
+> 
+> SYSADMIN can create warehouses, databases, and schemas, but cannot create roles or manage users; those require USERADMIN or ACCOUNTADMIN.
+ 
+ 
 </details>
 
 ### 3. Review the following SQL commands. Which privilege is missing that would allow the data_engineer role to query the table?
@@ -86,13 +86,15 @@
 - [ ] **D)** GRANT CREATE TABLE ON SCHEMA analytics_db.public TO ROLE data_engineer;
 
 <details>
-<summary>🔍 Reveal Answer</summary>
-
-✅ **Correct Answer: B**
-
-[!TIP]
-> 💡 Even with USAGE on the database and SELECT on the table, the role still needs USAGE on the schema to access objects within it.
-
+<summary> 🔍 Reveal Answer</summary>
+   
+#### **✅ Correct Answer: B**
+ 
+> 💡  **Explanation** 
+> 
+> Even with USAGE on the database and SELECT on the table, the role still needs USAGE on the schema to access objects within it.
+ 
+ 
 </details>
 
 ### 4. Which system-defined role has the privilege to create new users and assign roles to them?
@@ -103,13 +105,15 @@
 - [ ] **D)** ACCOUNTADMIN
 
 <details>
-<summary>🔍 Reveal Answer</summary>
-
-✅ **Correct Answer: B**
-
-[!TIP]
-> 💡 USERADMIN is specifically designed to create and manage users and roles; ACCOUNTADMIN inherits this but is not the dedicated role.
-
+<summary> 🔍 Reveal Answer</summary>
+   
+#### **✅ Correct Answer: B**
+ 
+> 💡  **Explanation** 
+> 
+> USERADMIN is specifically designed to create and manage users and roles; ACCOUNTADMIN inherits this but is not the dedicated role.
+ 
+ 
 </details>
 
 ### 5. Which of the following are true about the PUBLIC role? (Select two.)
@@ -120,13 +124,15 @@
 - [ ] **D)** PUBLIC is a system role that cannot be dropped or modified.
 
 <details>
-<summary>🔍 Reveal Answer</summary>
-
-✅ **Correct Answer: A**
-
-[!TIP]
-> 💡 All users automatically get PUBLIC, and granting privileges to PUBLIC immediately affects all current and future users.
-
+<summary> 🔍 Reveal Answer</summary>
+   
+#### **✅ Correct Answer: A**
+ 
+> 💡  **Explanation** 
+> 
+> All users automatically get PUBLIC, and granting privileges to PUBLIC immediately affects all current and future users.
+ 
+ 
 </details>
 
 ### 6. After executing the statements below, why can user John still query the table even though his DATA_ANALYST role was revoked?
@@ -137,13 +143,15 @@
 - [ ] **D)** John's default role provides the same access via another role.
 
 <details>
-<summary>🔍 Reveal Answer</summary>
-
-✅ **Correct Answer: B**
-
-[!TIP]
-> 💡 If the table's SELECT privilege was granted to PUBLIC, all users retain access regardless of individual role revocations.
-
+<summary> 🔍 Reveal Answer</summary>
+   
+#### **✅ Correct Answer: B**
+ 
+> 💡  **Explanation** 
+> 
+> If the table's SELECT privilege was granted to PUBLIC, all users retain access regardless of individual role revocations.
+ 
+ 
 </details>
 
 
@@ -159,13 +167,15 @@
 - [ ] **D)** Only works with Reader Accounts.
 
 <details>
-<summary>🔍 Reveal Answer</summary>
-
-✅ **Correct Answer: B**
-
-[!TIP]
-> 💡 Snowflake Data Sharing provides real-time access to live data without copying or moving it, reducing storage cost and latency.
-
+<summary> 🔍 Reveal Answer</summary>
+   
+#### **✅ Correct Answer: B**
+ 
+> 💡  **Explanation** 
+> 
+> Snowflake Data Sharing provides real-time access to live data without copying or moving it, reducing storage cost and latency.
+ 
+ 
 </details>
 
 ### 8. Which statements are true about Reader Accounts in Snowflake?
@@ -176,13 +186,15 @@
 - [ ] **D)** They can write data back to the provider.
 
 <details>
-<summary>🔍 Reveal Answer</summary>
-
-✅ **Correct Answer: B**
-
-[!TIP]
-> 💡 Reader Accounts are fully-managed accounts for consumers without Snowflake; provider pays compute and consumers cannot write data.
-
+<summary> 🔍 Reveal Answer</summary>
+   
+#### **✅ Correct Answer: B**
+ 
+> 💡  **Explanation** 
+> 
+> Reader Accounts are fully-managed accounts for consumers without Snowflake; provider pays compute and consumers cannot write data.
+ 
+ 
 </details>
 
 ### 9. What SQL command is used to create a share for data sharing?
@@ -193,13 +205,15 @@
 - [ ] **D)** CREATE DATABASE
 
 <details>
-<summary>🔍 Reveal Answer</summary>
-
-✅ **Correct Answer: A**
-
-[!TIP]
-> 💡 The CREATE SHARE command creates a share object to grant access to a set of database objects.
-
+<summary> 🔍 Reveal Answer</summary>
+   
+#### **✅ Correct Answer: A**
+ 
+> 💡  **Explanation** 
+> 
+> The CREATE SHARE command creates a share object to grant access to a set of database objects.
+ 
+ 
 </details>
 
 
@@ -215,13 +229,15 @@
 - [ ] **D)** LOAD DATA
 
 <details>
-<summary>🔍 Reveal Answer</summary>
-
-✅ **Correct Answer: A**
-
-[!TIP]
-> 💡 COPY INTO is the foundational command for bulk loading data from staged files into tables in Snowflake.
-
+<summary> 🔍 Reveal Answer</summary>
+   
+#### **✅ Correct Answer: A**
+ 
+> 💡  **Explanation** 
+> 
+> COPY INTO is the foundational command for bulk loading data from staged files into tables in Snowflake.
+ 
+ 
 </details>
 
 ### 11. Which of the following are true about Snowpipe? (Choose two.)
@@ -232,13 +248,15 @@
 - [ ] **D)** It only supports internal stages
 
 <details>
-<summary>🔍 Reveal Answer</summary>
-
-✅ **Correct Answer: A**
-
-[!TIP]
-> 💡 Snowpipe uses serverless compute and is event-driven; it does not require a virtual warehouse and supports external stages.
-
+<summary> 🔍 Reveal Answer</summary>
+   
+#### **✅ Correct Answer: A**
+ 
+> 💡  **Explanation** 
+> 
+> Snowpipe uses serverless compute and is event-driven; it does not require a virtual warehouse and supports external stages.
+ 
+ 
 </details>
 
 ### 12. Refer to the code block. Which file format is being used for unloading?
@@ -249,13 +267,15 @@
 - [ ] **D)** Avro
 
 <details>
-<summary>🔍 Reveal Answer</summary>
-
-✅ **Correct Answer: C**
-
-[!TIP]
-> 💡 The FILE_FORMAT option TYPE=PARQUET indicates Parquet is used for unloading.
-
+<summary> 🔍 Reveal Answer</summary>
+   
+#### **✅ Correct Answer: C**
+ 
+> 💡  **Explanation** 
+> 
+> The FILE_FORMAT option TYPE=PARQUET indicates Parquet is used for unloading.
+ 
+ 
 </details>
 
 ### 13. Which stage type is automatically created for every Snowflake user?
@@ -266,13 +286,15 @@
 - [ ] **D)** External stage
 
 <details>
-<summary>🔍 Reveal Answer</summary>
-
-✅ **Correct Answer: A**
-
-[!TIP]
-> 💡 Every Snowflake user automatically gets a user stage, referenced as @~.
-
+<summary> 🔍 Reveal Answer</summary>
+   
+#### **✅ Correct Answer: A**
+ 
+> 💡  **Explanation** 
+> 
+> Every Snowflake user automatically gets a user stage, referenced as @~.
+ 
+ 
 </details>
 
 ### 14. Which two connectors are commonly used to connect BI tools to Snowflake?
@@ -283,13 +305,15 @@
 - [ ] **D)** Spark Connector
 
 <details>
-<summary>🔍 Reveal Answer</summary>
-
-✅ **Correct Answer: B**
-
-[!TIP]
-> 💡 ODBC is the standard driver for BI tools; JDBC is for Java apps, not commonly directly used by BI tools.
-
+<summary> 🔍 Reveal Answer</summary>
+   
+#### **✅ Correct Answer: B**
+ 
+> 💡  **Explanation** 
+> 
+> ODBC is the standard driver for BI tools; JDBC is for Java apps, not commonly directly used by BI tools.
+ 
+ 
 </details>
 
 ### 15. Examine the SQL. What does the ON_ERROR option do?
@@ -300,13 +324,15 @@
 - [ ] **D)** Skips the file only if >10% errors
 
 <details>
-<summary>🔍 Reveal Answer</summary>
-
-✅ **Correct Answer: C**
-
-[!TIP]
-> 💡 With ABORT_STATEMENT (default), the entire COPY operation halts on the first error.
-
+<summary> 🔍 Reveal Answer</summary>
+   
+#### **✅ Correct Answer: C**
+ 
+> 💡  **Explanation** 
+> 
+> With ABORT_STATEMENT (default), the entire COPY operation halts on the first error.
+ 
+ 
 </details>
 
 
@@ -322,13 +348,15 @@
 - [ ] **D)** To speed up data loading
 
 <details>
-<summary>🔍 Reveal Answer</summary>
-
-✅ **Correct Answer: A**
-
-[!TIP]
-> 💡 A clustering key reorganizes micro-partitions to improve partition pruning, reducing data scanned during queries.
-
+<summary> 🔍 Reveal Answer</summary>
+   
+#### **✅ Correct Answer: A**
+ 
+> 💡  **Explanation** 
+> 
+> A clustering key reorganizes micro-partitions to improve partition pruning, reducing data scanned during queries.
+ 
+ 
 </details>
 
 ### 17. Which two statements about materialized views are true?
@@ -339,13 +367,15 @@
 - [ ] **D)** They refresh synchronously with every DML
 
 <details>
-<summary>🔍 Reveal Answer</summary>
-
-✅ **Correct Answer: A**
-
-[!TIP]
-> 💡 Materialized views store precomputed results and require a large base table. They do not support window functions and refresh asynchronously.
-
+<summary> 🔍 Reveal Answer</summary>
+   
+#### **✅ Correct Answer: A**
+ 
+> 💡  **Explanation** 
+> 
+> Materialized views store precomputed results and require a large base table. They do not support window functions and refresh asynchronously.
+ 
+ 
 </details>
 
 ### 18. Examine the SQL: which operation does this profile help diagnose?
@@ -356,13 +386,15 @@
 - [ ] **D)** Too many micro-partitions
 
 <details>
-<summary>🔍 Reveal Answer</summary>
-
-✅ **Correct Answer: A**
-
-[!TIP]
-> 💡 The profile shows 'Bytes Spilled' on a HashJoin operator, indicating spilling due to insufficient warehouse memory.
-
+<summary> 🔍 Reveal Answer</summary>
+   
+#### **✅ Correct Answer: A**
+ 
+> 💡  **Explanation** 
+> 
+> The profile shows 'Bytes Spilled' on a HashJoin operator, indicating spilling due to insufficient warehouse memory.
+ 
+ 
 </details>
 
 ### 19. Which DML operation does Snowflake internally execute for an UPDATE?
@@ -373,13 +405,15 @@
 - [ ] **D)** Drop and recreate the table
 
 <details>
-<summary>🔍 Reveal Answer</summary>
-
-✅ **Correct Answer: A**
-
-[!TIP]
-> 💡 Snowflake never modifies micro-partitions in place; an UPDATE is a DELETE followed by an INSERT within the same transaction.
-
+<summary> 🔍 Reveal Answer</summary>
+   
+#### **✅ Correct Answer: A**
+ 
+> 💡  **Explanation** 
+> 
+> Snowflake never modifies micro-partitions in place; an UPDATE is a DELETE followed by an INSERT within the same transaction.
+ 
+ 
 </details>
 
 ### 20. Which two features can improve performance for point-lookup queries?
@@ -390,13 +424,15 @@
 - [ ] **D)** Standard view
 
 <details>
-<summary>🔍 Reveal Answer</summary>
-
-✅ **Correct Answer: A**
-
-[!TIP]
-> 💡 Search Optimization Service and clustering on the lookup column both improve point-lookup performance. Materialized views are for aggregations, not point lookups.
-
+<summary> 🔍 Reveal Answer</summary>
+   
+#### **✅ Correct Answer: A**
+ 
+> 💡  **Explanation** 
+> 
+> Search Optimization Service and clustering on the lookup column both improve point-lookup performance. Materialized views are for aggregations, not point lookups.
+ 
+ 
 </details>
 
 ### 21. Interpret the Query Profile metric: what does 'Partitions Scanned' indicate?
@@ -407,13 +443,15 @@
 - [ ] **D)** Amount of memory used
 
 <details>
-<summary>🔍 Reveal Answer</summary>
-
-✅ **Correct Answer: A**
-
-[!TIP]
-> 💡 'Partitions Scanned' shows how many micro-partitions were read, directly affecting performance and cost.
-
+<summary> 🔍 Reveal Answer</summary>
+   
+#### **✅ Correct Answer: A**
+ 
+> 💡  **Explanation** 
+> 
+> 'Partitions Scanned' shows how many micro-partitions were read, directly affecting performance and cost.
+ 
+ 
 </details>
 
 
@@ -429,13 +467,15 @@
 - [ ] **D)** Metadata Layer
 
 <details>
-<summary>🔍 Reveal Answer</summary>
-
-✅ **Correct Answer: C**
-
-[!TIP]
-> 💡 The result cache is maintained by the Cloud Services Layer and is shared across warehouses for identical queries within 24 hours.
-
+<summary> 🔍 Reveal Answer</summary>
+   
+#### **✅ Correct Answer: C**
+ 
+> 💡  **Explanation** 
+> 
+> The result cache is maintained by the Cloud Services Layer and is shared across warehouses for identical queries within 24 hours.
+ 
+ 
 </details>
 
 ### 23. What is the default auto-suspend timeout for a virtual warehouse?
@@ -446,13 +486,15 @@
 - [ ] **D)** 60 minutes
 
 <details>
-<summary>🔍 Reveal Answer</summary>
-
-✅ **Correct Answer: B**
-
-[!TIP]
-> 💡 The default AUTO_SUSPEND setting is 10 minutes; it can be changed to as low as 1 minute.
-
+<summary> 🔍 Reveal Answer</summary>
+   
+#### **✅ Correct Answer: B**
+ 
+> 💡  **Explanation** 
+> 
+> The default AUTO_SUSPEND setting is 10 minutes; it can be changed to as low as 1 minute.
+ 
+ 
 </details>
 
 ### 24. Which two statements about multi-cluster warehouses are true? (Choose two.)
@@ -463,13 +505,15 @@
 - [ ] **D)** They automatically increase warehouse size to handle more data.
 
 <details>
-<summary>🔍 Reveal Answer</summary>
-
-✅ **Correct Answer: A**
-
-[!TIP]
-> 💡 Multi-cluster warehouses add identical clusters to increase concurrency, not single-query speed. Scaling policy options include economy and standard.
-
+<summary> 🔍 Reveal Answer</summary>
+   
+#### **✅ Correct Answer: A**
+ 
+> 💡  **Explanation** 
+> 
+> Multi-cluster warehouses add identical clusters to increase concurrency, not single-query speed. Scaling policy options include economy and standard.
+ 
+ 
 </details>
 
 ### 25. Examine the scenario: A team has 50 concurrent BI users running short queries. Which warehouse configuration is most cost-effective?
@@ -480,13 +524,15 @@
 - [ ] **D)** Multi-cluster Large warehouse, economy scaling
 
 <details>
-<summary>🔍 Reveal Answer</summary>
-
-✅ **Correct Answer: B**
-
-[!TIP]
-> 💡 For many concurrent short queries, multiple small clusters provide concurrency at lower cost; standard scaling minimizes queue time.
-
+<summary> 🔍 Reveal Answer</summary>
+   
+#### **✅ Correct Answer: B**
+ 
+> 💡  **Explanation** 
+> 
+> For many concurrent short queries, multiple small clusters provide concurrency at lower cost; standard scaling minimizes queue time.
+ 
+ 
 </details>
 
 ### 26. What happens to the local SSD cache when a virtual warehouse is suspended?
@@ -497,13 +543,15 @@
 - [ ] **D)** It is stored in the Cloud Services Layer.
 
 <details>
-<summary>🔍 Reveal Answer</summary>
-
-✅ **Correct Answer: B**
-
-[!TIP]
-> 💡 The local SSD cache is volatile and cleared when a warehouse is suspended. It must be rebuilt from storage on resume.
-
+<summary> 🔍 Reveal Answer</summary>
+   
+#### **✅ Correct Answer: B**
+ 
+> 💡  **Explanation** 
+> 
+> The local SSD cache is volatile and cleared when a warehouse is suspended. It must be rebuilt from storage on resume.
+ 
+ 
 </details>
 
 ### 27. Which two are true about zero-copy cloning? (Choose two.)
@@ -514,13 +562,15 @@
 - [ ] **D)** It incurs full storage cost at the time of creation.
 
 <details>
-<summary>🔍 Reveal Answer</summary>
-
-✅ **Correct Answer: B**
-
-[!TIP]
-> 💡 Zero-copy cloning creates metadata pointers to the same micro-partitions; storage is shared until either source or clone is modified.
-
+<summary> 🔍 Reveal Answer</summary>
+   
+#### **✅ Correct Answer: B**
+ 
+> 💡  **Explanation** 
+> 
+> Zero-copy cloning creates metadata pointers to the same micro-partitions; storage is shared until either source or clone is modified.
+ 
+ 
 </details>
 
 ### 28. Review the statement: 'CREATE DATABASE prod_clone CLONE prod_db;' Which architectural feature makes this operation nearly instantaneous?
@@ -531,13 +581,15 @@
 - [ ] **D)** Use of external staging area
 
 <details>
-<summary>🔍 Reveal Answer</summary>
-
-✅ **Correct Answer: A**
-
-[!TIP]
-> 💡 Zero-copy cloning leverages Snowflake metadata layer to create a new object without duplicating data, making it instantaneous.
-
+<summary> 🔍 Reveal Answer</summary>
+   
+#### **✅ Correct Answer: A**
+ 
+> 💡  **Explanation** 
+> 
+> Zero-copy cloning leverages Snowflake metadata layer to create a new object without duplicating data, making it instantaneous.
+ 
+ 
 </details>
 
 ### 29. In Snowflake data sharing, what is a Reader Account?
@@ -548,13 +600,15 @@
 - [ ] **D)** An account that stores data locally
 
 <details>
-<summary>🔍 Reveal Answer</summary>
-
-✅ **Correct Answer: B**
-
-[!TIP]
-> 💡 A Reader Account is a managed account that allows external users to query shared data without owning a Snowflake account.
-
+<summary> 🔍 Reveal Answer</summary>
+   
+#### **✅ Correct Answer: B**
+ 
+> 💡  **Explanation** 
+> 
+> A Reader Account is a managed account that allows external users to query shared data without owning a Snowflake account.
+ 
+ 
 </details>
 
 ### 30. Which two statements about Snowflake Time Travel are correct? (Choose two.)
@@ -565,11 +619,13 @@
 - [ ] **D)** It is only available in Business Critical edition.
 
 <details>
-<summary>🔍 Reveal Answer</summary>
-
-✅ **Correct Answer: A**
-
-[!TIP]
-> 💡 Time Travel retention can be set up to 90 days for permanent tables; temporary tables have no Time Travel. UNDROP is a Time Travel operation. Standard edition supports 1 day, Enterprise and above support up to 90 days.
-
+<summary> 🔍 Reveal Answer</summary>
+   
+#### **✅ Correct Answer: A**
+ 
+> 💡  **Explanation** 
+> 
+> Time Travel retention can be set up to 90 days for permanent tables; temporary tables have no Time Travel. UNDROP is a Time Travel operation. Standard edition supports 1 day, Enterprise and above support up to 90 days.
+ 
+ 
 </details>
