@@ -1,0 +1,9 @@
+node_modules/
+data/
+*.log
+.DS_Store
+docs/
+scripts/
+package.json
+package-lock.json
+.github/
