@@ -18,13 +18,17 @@ Our goal isn't just to provide answers, but to foster understanding through deta
 
 ## Available Certifications
 
-- <img src="https://pub-6a9f8dede1194a7786cba69e7dcdad9f.r2.dev/providers/Snowflake" width="1.2%"> **Snowflake**
+- <img src="https://pub-6a9f8dede1194a7786cba69e7dcdad9f.r2.dev/providers/Amazon_Web_Services" width="2%" align="absmiddle"> **Amazon Web Services**
+  - **AWS Certified AI Practitioner**
+    - [Foundation](certifications/Amazon%20Web%20Services/AWS%20Certified%20AI%20Practitioner/foundation.md)
+- <img src="https://pub-6a9f8dede1194a7786cba69e7dcdad9f.r2.dev/providers/APMG_International" width="2%" align="absmiddle"> **APMG International**
+  - **AI Framework for Transformation (AIFT)**
+    - [Foundation](certifications/APMG%20International/AI%20Framework%20for%20Transformation%20(AIFT)/foundation.md)
+
+- <img src="https://pub-6a9f8dede1194a7786cba69e7dcdad9f.r2.dev/providers/Snowflake" width="2%" align="absmiddle"> **Snowflake**
   - **SnowPro Core Certification**
     - [Foundation](certifications/Snowflake/SnowPro%20Core%20Certification/foundation.md)
 
-- <img src="https://pub-6a9f8dede1194a7786cba69e7dcdad9f.r2.dev/providers/APMG_International" width="1.2%"> **APMG International**
-  - **AI Framework for Transformation (AIFT)**
-    - [Foundation](certifications/APMG%20International/AI%20Framework%20for%20Transformation%20(AIFT)/foundation.md)
 
 ---
 
@@ -35,8 +39,8 @@ Certifications are organized by difficulty level. Each level represents a differ
 | Level | Description |
 |-------|-------------|
 | **Foundation** | Entry-level certification covering core concepts and fundamentals |
-| **Master** | Advanced certification requiring deeper domain expertise |
 | **Proficiency** | Expert-level certification for senior practitioners |
+| **Master** | Advanced certification requiring deeper domain expertise |
 
 ---
 
