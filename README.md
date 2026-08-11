@@ -234,11 +234,45 @@ Our goal isn't just to provide answers, but to foster understanding through deta
 - <img src="https://pub-6a9f8dede1194a7786cba69e7dcdad9f.r2.dev/providers/Google" width="2%" align="absmiddle" onerror="this.style.display='none'"> **Google Cloud**
   - **Google Associate Cloud Engineer**
     - [Foundation](certifications/Google%20Cloud/Google%20Associate%20Cloud%20Engineer/foundation.md)
+- <img src="https://pub-6a9f8dede1194a7786cba69e7dcdad9f.r2.dev/providers/ISACA" width="2%" align="absmiddle" onerror="this.style.display='none'"> **ISACA**
+  - **ISACA CDPSE**
+    - [Foundation](certifications/ISACA/ISACA%20CDPSE/foundation.md)
+  - **ISACA CGEIT**
+    - [Foundation](certifications/ISACA/ISACA%20CGEIT/foundation.md)
+  - **ISACA CISA**
+    - [Foundation](certifications/ISACA/ISACA%20CISA/foundation.md)
+  - **ISACA CISM**
+    - [Foundation](certifications/ISACA/ISACA%20CISM/foundation.md)
+  - **ISACA CRISC**
+    - [Foundation](certifications/ISACA/ISACA%20CRISC/foundation.md)
+- <img src="https://pub-6a9f8dede1194a7786cba69e7dcdad9f.r2.dev/providers/ISC2" width="2%" align="absmiddle" onerror="this.style.display='none'"> **ISC2**
+  - **ISC2 CCSP**
+    - [Foundation](certifications/ISC2/ISC2%20CCSP/foundation.md)
+  - **ISC2 CGRC**
+    - [Foundation](certifications/ISC2/ISC2%20CGRC/foundation.md)
+  - **ISC2 CISSP**
+    - [Foundation](certifications/ISC2/ISC2%20CISSP/foundation.md)
+  - **ISC2 SSCP**
+    - [Foundation](certifications/ISC2/ISC2%20SSCP/foundation.md)
 - <img src="https://pub-6a9f8dede1194a7786cba69e7dcdad9f.r2.dev/providers/Microsoft" width="2%" align="absmiddle" onerror="this.style.display='none'"> **Microsoft**
+  - **Microsoft Certified: AI Business Professional**
+    - [Foundation](certifications/Microsoft/Microsoft%20Certified:%20AI%20Business%20Professional/foundation.md)
   - **Microsoft Certified: Azure Administrator Associate**
     - [Foundation](certifications/Microsoft/Microsoft%20Certified:%20Azure%20Administrator%20Associate/foundation.md)
+  - **Microsoft Certified: Azure AI Apps and Agents Developer Associate**
+    - [Foundation](certifications/Microsoft/Microsoft%20Certified:%20Azure%20AI%20Apps%20and%20Agents%20Developer%20Associate/foundation.md)
+  - **Microsoft Certified: Azure Cosmos DB Developer Specialty**
+    - [Foundation](certifications/Microsoft/Microsoft%20Certified:%20Azure%20Cosmos%20DB%20Developer%20Specialty/foundation.md)
   - **Microsoft Certified: Azure Fundamentals**
     - [Foundation](certifications/Microsoft/Microsoft%20Certified:%20Azure%20Fundamentals/foundation.md)
+  - **Microsoft Certified: Azure Virtual Desktop Specialty**
+    - [Foundation](certifications/Microsoft/Microsoft%20Certified:%20Azure%20Virtual%20Desktop%20Specialty/foundation.md)
+  - **Microsoft Certified: Business Applications Builder Associate**
+    - [Foundation](certifications/Microsoft/Microsoft%20Certified:%20Business%20Applications%20Builder%20Associate/foundation.md)
+  - **Microsoft Fabric Analytics Engineer**
+    - [Foundation](certifications/Microsoft/Microsoft%20Fabric%20Analytics%20Engineer/foundation.md)
+  - **Microsoft Certified: Security Operations Analyst Associate**
+    - [Foundation](certifications/Microsoft/Microsoft%20Certified:%20Security%20Operations%20Analyst%20Associate/foundation.md)
 - <img src="https://pub-6a9f8dede1194a7786cba69e7dcdad9f.r2.dev/providers/PMI" width="2%" align="absmiddle" onerror="this.style.display='none'"> **Project Management Institute**
   - **Certified Associate in Project Management**
     - [Foundation](certifications/Project%20Management%20Institute/Certified%20Associate%20in%20Project%20Management/foundation.md)
