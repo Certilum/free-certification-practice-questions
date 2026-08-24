@@ -38,8 +38,6 @@ Our goal isn't just to provide answers, but to foster understanding through deta
     - [Foundation](certifications/Adobe/Adobe%20Certified%20Expert%20-%20Real-Time%20CDP%20Business%20Practitioner/foundation.md)
   - **Adobe Certified Master - Adobe Analytics Architect**
     - [Foundation](certifications/Adobe/Adobe%20Certified%20Master%20-%20Adobe%20Analytics%20Architect/foundation.md)
-  - **Adobe Certified Master - Adobe Journey Optimizer (AJO) Architect**
-    - [Foundation](certifications/Adobe/Adobe%20Certified%20Master%20-%20Adobe%20Journey%20Optimizer%20(AJO)%20Architect/foundation.md)
 - <img src="https://pub-6a9f8dede1194a7786cba69e7dcdad9f.r2.dev/providers/AWS" width="2%" align="absmiddle" onerror="this.style.display='none'"> **Amazon Web Services**
   - **AWS Certified AI Practitioner**
     - [Foundation](certifications/Amazon%20Web%20Services/AWS%20Certified%20AI%20Practitioner/foundation.md)
@@ -89,8 +87,6 @@ Our goal isn't just to provide answers, but to foster understanding through deta
   - **NIST Cybersecurity Framework Foundation**
     - [Foundation](certifications/APMG%20International/NIST%20Cybersecurity%20Framework%20Foundation/foundation.md)
 - <img src="https://pub-6a9f8dede1194a7786cba69e7dcdad9f.r2.dev/providers/Arista_Networks" width="2%" align="absmiddle" onerror="this.style.display='none'"> **Arista**
-  - **ACE: Cloud Automation Architect**
-    - [Foundation](certifications/Arista/ACE:%20Cloud%20Automation%20Architect/foundation.md)
   - **ACE: L1 (Cloud Engineer: Level 1)**
     - [Foundation](certifications/Arista/ACE:%20L1%20(Cloud%20Engineer:%20Level%201)/foundation.md)
   - **ACE: L2 (Cloud Engineer: Level 2)**
@@ -130,22 +126,22 @@ Our goal isn't just to provide answers, but to foster understanding through deta
   - **Avaya Workforce Engagement Technical Associate Support**
     - [Foundation](certifications/Avaya/Avaya%20Workforce%20Engagement%20Technical%20Associate%20Support/foundation.md)
 - <img src="https://pub-6a9f8dede1194a7786cba69e7dcdad9f.r2.dev/providers/Blue_Prism" width="2%" align="absmiddle" onerror="this.style.display='none'"> **Blue Prism**
-  - **Associate Developer**
-    - [Foundation](certifications/Blue%20Prism/Associate%20Developer/foundation.md)
-  - **Chorus Foundation**
-    - [Foundation](certifications/Blue%20Prism/Chorus%20Foundation/foundation.md)
-  - **Developer**
-    - [Foundation](certifications/Blue%20Prism/Developer/foundation.md)
-  - **Installation Engineer (v6)**
-    - [Foundation](certifications/Blue%20Prism/Installation%20Engineer%20(v6)/foundation.md)
-  - **Professional Developer**
-    - [Foundation](certifications/Blue%20Prism/Professional%20Developer/foundation.md)
-  - **ROM™ 2 Professional**
-    - [Foundation](certifications/Blue%20Prism/ROM™%202%20Professional/foundation.md)
-  - **Solution Designer**
-    - [Foundation](certifications/Blue%20Prism/Solution%20Designer/foundation.md)
-  - **Technical Architect (v7)**
-    - [Foundation](certifications/Blue%20Prism/Technical%20Architect%20(v7)/foundation.md)
+  - **Blue Prism Certified Associate Developer**
+    - [Foundation](certifications/Blue%20Prism/Blue%20Prism%20Certified%20Associate%20Developer/foundation.md)
+  - **Blue Prism Certified Chorus Foundation**
+    - [Foundation](certifications/Blue%20Prism/Blue%20Prism%20Certified%20Chorus%20Foundation/foundation.md)
+  - **Blue Prism Certified Developer**
+    - [Foundation](certifications/Blue%20Prism/Blue%20Prism%20Certified%20Developer/foundation.md)
+  - **Blue Prism Certified Installation Engineer**
+    - [Foundation](certifications/Blue%20Prism/Blue%20Prism%20Certified%20Installation%20Engineer/foundation.md)
+  - **Blue Prism Certified Professional Developer**
+    - [Foundation](certifications/Blue%20Prism/Blue%20Prism%20Certified%20Professional%20Developer/foundation.md)
+  - **Blue Prism Certified ROM 2 Professional**
+    - [Foundation](certifications/Blue%20Prism/Blue%20Prism%20Certified%20ROM%202%20Professional/foundation.md)
+  - **Blue Prism Certified Solution Designer**
+    - [Foundation](certifications/Blue%20Prism/Blue%20Prism%20Certified%20Solution%20Designer/foundation.md)
+  - **Blue Prism Certified Technical Architect**
+    - [Foundation](certifications/Blue%20Prism/Blue%20Prism%20Certified%20Technical%20Architect/foundation.md)
 - <img src="https://pub-6a9f8dede1194a7786cba69e7dcdad9f.r2.dev/providers/Broadcom" width="2%" align="absmiddle" onerror="this.style.display='none'"> **Broadcom**
   - **VCAP - VMware Cloud Foundation Automation**
     - [Foundation](certifications/Broadcom/VCAP%20-%20VMware%20Cloud%20Foundation%20Automation/foundation.md)
@@ -170,20 +166,22 @@ Our goal isn't just to provide answers, but to foster understanding through deta
 - <img src="https://pub-6a9f8dede1194a7786cba69e7dcdad9f.r2.dev/providers/Cisco" width="2%" align="absmiddle" onerror="this.style.display='none'"> **Cisco**
   - **CCIE Enterprise Infrastructure**
     - [Foundation](certifications/Cisco/CCIE%20Enterprise%20Infrastructure/foundation.md)
-  - **CCNA Automation**
-    - [Foundation](certifications/Cisco/CCNA%20Automation/foundation.md)
-  - **CCNA Cybersecurity**
-    - [Foundation](certifications/Cisco/CCNA%20Cybersecurity/foundation.md)
-  - **CCNP Cybersecurity**
-    - [Foundation](certifications/Cisco/CCNP%20Cybersecurity/foundation.md)
   - **CCNP Enterprise**
     - [Foundation](certifications/Cisco/CCNP%20Enterprise/foundation.md)
   - **CCNP Security**
     - [Foundation](certifications/Cisco/CCNP%20Security/foundation.md)
+  - **Cisco Certified CyberOps Professional**
+    - [Foundation](certifications/Cisco/Cisco%20Certified%20CyberOps%20Professional/foundation.md)
+  - **Cisco Certified Cybersecurity Associate (CyberOps)**
+    - [Foundation](certifications/Cisco/Cisco%20Certified%20Cybersecurity%20Associate%20(CyberOps)/foundation.md)
+  - **Cisco Certified DevNet Associate**
+    - [Foundation](certifications/Cisco/Cisco%20Certified%20DevNet%20Associate/foundation.md)
+  - **Cisco Certified DevNet Professional (DEVCOR)**
+    - [Foundation](certifications/Cisco/Cisco%20Certified%20DevNet%20Professional%20(DEVCOR)/foundation.md)
   - **Cisco Certified Network Associate**
     - [Foundation](certifications/Cisco/Cisco%20Certified%20Network%20Associate/foundation.md)
-  - **Cisco Certified Specialist - Enterprise Core**
-    - [Foundation](certifications/Cisco/Cisco%20Certified%20Specialist%20-%20Enterprise%20Core/foundation.md)
+  - **Cisco Enterprise Advanced Routing and Services (ENARSI)**
+    - [Foundation](certifications/Cisco/Cisco%20Enterprise%20Advanced%20Routing%20and%20Services%20(ENARSI)/foundation.md)
 - <img src="https://pub-6a9f8dede1194a7786cba69e7dcdad9f.r2.dev/providers/Cloudera" width="2%" align="absmiddle" onerror="this.style.display='none'"> **Cloudera**
   - **CDP Administrator - Private Cloud Base**
     - [Foundation](certifications/Cloudera/CDP%20Administrator%20-%20Private%20Cloud%20Base/foundation.md)
@@ -196,8 +194,20 @@ Our goal isn't just to provide answers, but to foster understanding through deta
   - **CDP Machine Learning Engineer**
     - [Foundation](certifications/Cloudera/CDP%20Machine%20Learning%20Engineer/foundation.md)
 - <img src="https://pub-6a9f8dede1194a7786cba69e7dcdad9f.r2.dev/providers/CompTIA" width="2%" align="absmiddle" onerror="this.style.display='none'"> **CompTIA**
+  - **CompTIA A+ (Core 1)**
+    - [Foundation](certifications/CompTIA/CompTIA%20A+%20(Core%201)/foundation.md)
+  - **CompTIA A+ (Core 2)**
+    - [Foundation](certifications/CompTIA/CompTIA%20A+%20(Core%202)/foundation.md)
   - **CompTIA CySA+**
     - [Foundation](certifications/CompTIA/CompTIA%20CySA+/foundation.md)
+  - **CompTIA Network+**
+    - [Foundation](certifications/CompTIA/CompTIA%20Network+/foundation.md)
+  - **CompTIA PenTest+**
+    - [Foundation](certifications/CompTIA/CompTIA%20PenTest+/foundation.md)
+  - **CompTIA Security+**
+    - [Foundation](certifications/CompTIA/CompTIA%20Security+/foundation.md)
+  - **CompTIA SecurityX**
+    - [Foundation](certifications/CompTIA/CompTIA%20SecurityX/foundation.md)
 - <img src="https://pub-6a9f8dede1194a7786cba69e7dcdad9f.r2.dev/providers/Crest" width="2%" align="absmiddle" onerror="this.style.display='none'"> **CREST**
   - **Certified Incident Manager**
     - [Foundation](certifications/CREST/Certified%20Incident%20Manager/foundation.md)
@@ -228,12 +238,22 @@ Our goal isn't just to provide answers, but to foster understanding through deta
     - [Foundation](certifications/Databricks/Databricks%20Certified%20Data%20Engineer%20Associate/foundation.md)
   - **Databricks Certified Data Engineer Professional**
     - [Foundation](certifications/Databricks/Databricks%20Certified%20Data%20Engineer%20Professional/foundation.md)
+  - **Databricks Certified Machine Learning Associate**
+    - [Foundation](certifications/Databricks/Databricks%20Certified%20Machine%20Learning%20Associate/foundation.md)
 - <img src="https://pub-6a9f8dede1194a7786cba69e7dcdad9f.r2.dev/providers/DevOps%20Institute.png" width="2%" align="absmiddle" onerror="this.style.display='none'"> **DevOps Institute**
   - **DevOps Foundation**
     - [Foundation](certifications/DevOps%20Institute/DevOps%20Foundation/foundation.md)
 - <img src="https://pub-6a9f8dede1194a7786cba69e7dcdad9f.r2.dev/providers/Google" width="2%" align="absmiddle" onerror="this.style.display='none'"> **Google Cloud**
   - **Google Associate Cloud Engineer**
     - [Foundation](certifications/Google%20Cloud/Google%20Associate%20Cloud%20Engineer/foundation.md)
+  - **Professional Cloud Architect**
+    - [Foundation](certifications/Google%20Cloud/Professional%20Cloud%20Architect/foundation.md)
+  - **Professional Cloud DevOps Engineer**
+    - [Foundation](certifications/Google%20Cloud/Professional%20Cloud%20DevOps%20Engineer/foundation.md)
+  - **Professional Cloud Security Engineer**
+    - [Foundation](certifications/Google%20Cloud/Professional%20Cloud%20Security%20Engineer/foundation.md)
+  - **Professional Data Engineer**
+    - [Foundation](certifications/Google%20Cloud/Professional%20Data%20Engineer/foundation.md)
 - <img src="https://pub-6a9f8dede1194a7786cba69e7dcdad9f.r2.dev/providers/ISACA" width="2%" align="absmiddle" onerror="this.style.display='none'"> **ISACA**
   - **ISACA CDPSE**
     - [Foundation](certifications/ISACA/ISACA%20CDPSE/foundation.md)
@@ -255,6 +275,14 @@ Our goal isn't just to provide answers, but to foster understanding through deta
   - **ISC2 SSCP**
     - [Foundation](certifications/ISC2/ISC2%20SSCP/foundation.md)
 - <img src="https://pub-6a9f8dede1194a7786cba69e7dcdad9f.r2.dev/providers/Microsoft" width="2%" align="absmiddle" onerror="this.style.display='none'"> **Microsoft**
+  - **Azure Data Engineer Associate**
+    - [Foundation](certifications/Microsoft/Azure%20Data%20Engineer%20Associate/foundation.md)
+  - **Azure DevOps Engineer Expert**
+    - [Foundation](certifications/Microsoft/Azure%20DevOps%20Engineer%20Expert/foundation.md)
+  - **Azure Security Engineer Associate**
+    - [Foundation](certifications/Microsoft/Azure%20Security%20Engineer%20Associate/foundation.md)
+  - **Azure Solutions Architect Expert**
+    - [Foundation](certifications/Microsoft/Azure%20Solutions%20Architect%20Expert/foundation.md)
   - **Microsoft Certified: AI Business Professional**
     - [Foundation](certifications/Microsoft/Microsoft%20Certified:%20AI%20Business%20Professional/foundation.md)
   - **Microsoft Certified: Azure Administrator Associate**
@@ -267,27 +295,45 @@ Our goal isn't just to provide answers, but to foster understanding through deta
     - [Foundation](certifications/Microsoft/Microsoft%20Certified:%20Azure%20Fundamentals/foundation.md)
   - **Microsoft Certified: Azure Virtual Desktop Specialty**
     - [Foundation](certifications/Microsoft/Microsoft%20Certified:%20Azure%20Virtual%20Desktop%20Specialty/foundation.md)
-  - **Microsoft Certified: Business Applications Builder Associate**
-    - [Foundation](certifications/Microsoft/Microsoft%20Certified:%20Business%20Applications%20Builder%20Associate/foundation.md)
-  - **Microsoft Fabric Analytics Engineer**
-    - [Foundation](certifications/Microsoft/Microsoft%20Fabric%20Analytics%20Engineer/foundation.md)
+  - **Microsoft Certified: Intelligent Applications Builder Associate**
+    - [Foundation](certifications/Microsoft/Microsoft%20Certified:%20Intelligent%20Applications%20Builder%20Associate/foundation.md)
   - **Microsoft Certified: Security Operations Analyst Associate**
     - [Foundation](certifications/Microsoft/Microsoft%20Certified:%20Security%20Operations%20Analyst%20Associate/foundation.md)
+  - **Microsoft Fabric Analytics Engineer**
+    - [Foundation](certifications/Microsoft/Microsoft%20Fabric%20Analytics%20Engineer/foundation.md)
+  - **Windows Server Hybrid Admin (Advanced)**
+    - [Foundation](certifications/Microsoft/Windows%20Server%20Hybrid%20Admin%20(Advanced)/foundation.md)
+  - **Windows Server Hybrid Admin (Core)**
+    - [Foundation](certifications/Microsoft/Windows%20Server%20Hybrid%20Admin%20(Core)/foundation.md)
 - <img src="https://pub-6a9f8dede1194a7786cba69e7dcdad9f.r2.dev/providers/PMI" width="2%" align="absmiddle" onerror="this.style.display='none'"> **Project Management Institute**
   - **Certified Associate in Project Management**
     - [Foundation](certifications/Project%20Management%20Institute/Certified%20Associate%20in%20Project%20Management/foundation.md)
+  - **PMI Agile Certified Practitioner**
+    - [Foundation](certifications/Project%20Management%20Institute/PMI%20Agile%20Certified%20Practitioner/foundation.md)
   - **Project Management Professional**
     - [Foundation](certifications/Project%20Management%20Institute/Project%20Management%20Professional/foundation.md)
 - <img src="https://pub-6a9f8dede1194a7786cba69e7dcdad9f.r2.dev/providers/Salesforce" width="2%" align="absmiddle" onerror="this.style.display='none'"> **Salesforce**
+  - **Salesforce Certified Data Cloud Consultant**
+    - [Foundation](certifications/Salesforce/Salesforce%20Certified%20Data%20Cloud%20Consultant/foundation.md)
   - **Salesforce Certified Platform Administrator**
     - [Foundation](certifications/Salesforce/Salesforce%20Certified%20Platform%20Administrator/foundation.md)
+  - **Salesforce Certified Platform App Builder**
+    - [Foundation](certifications/Salesforce/Salesforce%20Certified%20Platform%20App%20Builder/foundation.md)
+  - **Salesforce Certified Platform Developer I**
+    - [Foundation](certifications/Salesforce/Salesforce%20Certified%20Platform%20Developer%20I/foundation.md)
 - <img src="https://pub-6a9f8dede1194a7786cba69e7dcdad9f.r2.dev/providers/Scaled_Agile.png" width="2%" align="absmiddle" onerror="this.style.display='none'"> **Scaled Agile**
   - **SAFe Scrum Master 6.0**
     - [Foundation](certifications/Scaled%20Agile/SAFe%20Scrum%20Master%206.0/foundation.md)
 - <img src="https://pub-6a9f8dede1194a7786cba69e7dcdad9f.r2.dev/providers/Scrum" width="2%" align="absmiddle" onerror="this.style.display='none'"> **Scrum.org**
   - **Professional Scrum Master I**
     - [Foundation](certifications/Scrum.org/Professional%20Scrum%20Master%20I/foundation.md)
+  - **Professional Scrum Master II**
+    - [Foundation](certifications/Scrum.org/Professional%20Scrum%20Master%20II/foundation.md)
+  - **Professional Scrum Product Owner I**
+    - [Foundation](certifications/Scrum.org/Professional%20Scrum%20Product%20Owner%20I/foundation.md)
 - <img src="https://pub-6a9f8dede1194a7786cba69e7dcdad9f.r2.dev/providers/Snowflake" width="2%" align="absmiddle" onerror="this.style.display='none'"> **Snowflake**
+  - **SnowPro Advanced: Data Engineer**
+    - [Foundation](certifications/Snowflake/SnowPro%20Advanced:%20Data%20Engineer/foundation.md)
   - **SnowPro Core Certification**
     - [Foundation](certifications/Snowflake/SnowPro%20Core%20Certification/foundation.md)
 

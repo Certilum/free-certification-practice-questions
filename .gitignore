@@ -7,3 +7,4 @@ scripts/
 package.json
 package-lock.json
 .github/
+.env
