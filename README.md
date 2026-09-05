@@ -25,7 +25,7 @@ Our goal isn't just to provide answers, but to foster understanding through deta
 
 ## Available Certifications
 
-- <img src="https://pub-6a9f8dede1194a7786cba69e7dcdad9f.r2.dev/providers/Adobe" width="2%" align="absmiddle" onerror="this.style.display='none'"> **Adobe**
+- <img src="https://pub-6a9f8dede1194a7786cba69e7dcdad9f.r2.dev/providers/Adobe.png" width="2%" align="absmiddle" onerror="this.style.display='none'"> **Adobe**
   - **Adobe Certified Expert - Adobe Analytics Business Practitioner**
     - [Foundation](certifications/Adobe/Adobe%20Certified%20Expert%20-%20Adobe%20Analytics%20Business%20Practitioner/foundation.md)
   - **Adobe Certified Expert - Adobe Experience Manager Sites Developer**
