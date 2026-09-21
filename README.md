@@ -14,7 +14,7 @@
 We believe education should be accessible. You can use this resource in two ways:
 
 1.  **Direct Mode (GitHub)**: Browse the raw markdown files below. Best for quick reference.
-2.  **Interactive Mode (Simulator)**: Use our [Free Exam Simulator](https://demo.certilum.com) for a real test experience (timed, score tracking, and visual feedback).
+2.  **Interactive Mode (Simulator)**: Use our [Free Exam Simulator](https://certilum.com/demo) for a real test experience (timed, score tracking, and visual feedback).
 
 ---
 
@@ -816,7 +816,7 @@ To ensure accuracy and high-quality preparation, this open-source repository cur
 This repository is designed to be flexible. Choose the method that best fits your study style:
 
 ### 1. Interactive Simulator (Recommended)
-For a real exam experience, use our **[Free Interactive Demo](https://demo.certilum.com)**. 
+For a real exam experience, use our **[Free Interactive Demo](https://certilum.com/demo)**. 
 - **Pros**: Timed exams, instant scoring, and visual progress tracking.
 - **Cost**: 100% Free for the first 30 questions of every certification.
 
