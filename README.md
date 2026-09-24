@@ -1,9 +1,16 @@
-# CERTILUM
-## Open Certification Practice Questions
+<p align="center">
+  <img src="https://pub-6a9f8dede1194a7786cba69e7dcdad9f.r2.dev/logos/certilum.png" width="120" alt="Certilum logo">
+</p>
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Open Source](https://img.shields.io/badge/Open%20Source-Free-brightgreen)](https://github.com/certilum/free-certification-practice-questions)
-[![GitHub stars](https://img.shields.io/github/stars/certilum/free-certification-practice-questions)](https://github.com/certilum/free-certification-practice-questions/stargazers)
+<h1 align="center">CERTILUM</h1>
+
+<p align="center"><b>Open Certification Practice Questions</b></p>
+
+<p align="center">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT"></a>
+  <a href="https://github.com/certilum/free-certification-practice-questions"><img src="https://img.shields.io/badge/Open%20Source-Free-brightgreen" alt="Open Source"></a>
+  <a href="https://github.com/certilum/free-certification-practice-questions/stargazers"><img src="https://img.shields.io/github/stars/certilum/free-certification-practice-questions" alt="GitHub stars"></a>
+</p>
 
 > **10,000+ original practice questions** — free and open.
 > Original exam-style questions, mapped to exam objectives. Free to read, no signup required.
@@ -18,7 +25,7 @@
 
 | | GitHub | Demo | App |
 | :--- | :--- | :--- | :--- |
-| **What** | Open questions in markdown | Interactive practice experience | Complete prep platform |
+| **What** | Unlimited access to the open question content in markdown | Limited interactive experience (first 30 questions) | Complete prep platform |
 | **Best for** | Quick reference, offline reading | Timed practice, score tracking | Full paths, mocks, progress tracking |
 
 ---
@@ -826,7 +833,7 @@ cat foundation.md
 
 For an interactive practice experience, use our **[Free Interactive Demo](https://certilum.com/demo)**.
 - **Pros**: Timed exams, instant scoring, and visual progress tracking.
-- **Cost**: 100% Free for the first 30 questions of every certification.
+- **Cost**: Free for the first 30 questions of every certification.
 
 ### 3. Features
 - **Mobile-friendly**: The markdown files and the simulator read beautifully on any device.
@@ -845,7 +852,7 @@ whether they need a full preparation platform.
 
 ## Contributing
 
-Found an error? Open an Issue. This repo is maintained by Certilum — see [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to report corrections.
+Found an error or outdated exam information? Open an Issue. Corrections and improvements are welcome. This repo is maintained by Certilum — see [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to report corrections.
 
 ---
 
