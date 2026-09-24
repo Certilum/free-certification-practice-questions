@@ -1,6 +1,6 @@
 # Contributing
 
-This repository is a free resource for certification practice questions. Contributions are welcome!
+This repository contains original exam-style practice questions maintained by Certilum. Corrections via Issues and pull requests are welcome!
 
 ## How to Add a New Exam
 
@@ -63,7 +63,7 @@ If you find an error in a question or explanation, please open a GitHub issue wi
 
 ## Code of Conduct
 
-Be respectful and constructive in all interactions. This is a community resource.
+Be respectful and constructive in all interactions. This repo is maintained by Certilum.
 
 ## License
 

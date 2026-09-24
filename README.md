@@ -1,28 +1,34 @@
-# 📖 Open Certification Practice Project
+# CERTILUM
+## Open Certification Practice Questions
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Open Source](https://img.shields.io/badge/Open%20Source-Free-brightgreen)](https://github.com/certilum/free-certification-practice-questions)
-[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen)](CONTRIBUTING.md)
 [![GitHub stars](https://img.shields.io/github/stars/certilum/free-certification-practice-questions)](https://github.com/certilum/free-certification-practice-questions/stargazers)
 
-> **10,000+ free practice questions** for global certifications. No ads, no paywalls, just high-quality community-driven content.
+> **10,000+ original practice questions** — free and open.
+> Original exam-style questions, mapped to exam objectives. Free to read, no signup required.
 
 ---
 
-### 🚀 Choose your study mode
+## Start Here
 
-We believe education should be accessible. You can use this resource in two ways:
+1. ↓ **Browse questions** — pick your certification below. All files are in `certifications/`.
+2. ↓ **Try interactive simulator** — timed practice with instant scoring: [Try the Free Demo →](https://certilum.com/demo)
+3. ↓ **Explore Certilum** — full platform when you need structured prep: [certilum.com →](https://certilum.com)
 
-1.  **Direct Mode (GitHub)**: Browse the raw markdown files below. Best for quick reference.
-2.  **Interactive Mode (Simulator)**: Use our [Free Exam Simulator](https://certilum.com/demo) for a real test experience (timed, score tracking, and visual feedback).
+| | GitHub | Demo | App |
+| :--- | :--- | :--- | :--- |
+| **What** | Open questions in markdown | Interactive practice experience | Complete prep platform |
+| **Best for** | Quick reference, offline reading | Timed practice, score tracking | Full paths, mocks, progress tracking |
 
 ---
 
 ## Table of Contents
 
+- [Start Here](#start-here)
 - [Available Certifications](#available-certifications)
-- [Level Nomenclature](#level-nomenclature)
 - [How to Use This Resource](#how-to-use-this-resource)
+- [Why open source?](#why-open-source)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -799,29 +805,13 @@ We believe education should be accessible. You can use this resource in two ways
 
 ---
 
-## Level Nomenclature
-
-To ensure accuracy and high-quality preparation, this open-source repository currently focuses on the **Foundation** level. Advanced levels require complex scenario simulations and are hosted on the main platform.
-
-| Level | Availability | Best For |
-| :--- | :--- | :--- |
-| **Foundation** | 🟢 **GitHub (Open Source)** | Core concepts, terminology, and fundamentals. |
-| **Associate / Professional** | 🔵 **[Certilum Platform](https://certilum.com)** | Advanced exam simulations and scenario-based questions. |
-| **Expert / Master** | 🔵 **[Certilum Platform](https://certilum.com)** | Deep domain mastery and expert-level preparation. |
-
----
-
 ## How to Use This Resource
 
 This repository is designed to be flexible. Choose the method that best fits your study style:
 
-### 1. Interactive Simulator (Recommended)
-For a real exam experience, use our **[Free Interactive Demo](https://certilum.com/demo)**. 
-- **Pros**: Timed exams, instant scoring, and visual progress tracking.
-- **Cost**: 100% Free for the first 30 questions of every certification.
+### 1. Direct Reading (GitHub)
 
-### 2. Direct Reading (GitHub)
-Browse the questions directly here on GitHub. All questions are located in the `certifications/` directory.
+Browse the questions directly here on GitHub. All questions are located in the `certifications/` directory. Best for quick reference and offline reading.
 
 ```bash
 # Clone the repository to study offline
@@ -832,16 +822,30 @@ cd free-certification-practice-questions/certifications/AWS/
 cat foundation.md
 ```
 
+### 2. Interactive Simulator
+
+For an interactive practice experience, use our **[Free Interactive Demo](https://certilum.com/demo)**.
+- **Pros**: Timed exams, instant scoring, and visual progress tracking.
+- **Cost**: 100% Free for the first 30 questions of every certification.
+
 ### 3. Features
 - **Mobile-friendly**: The markdown files and the simulator read beautifully on any device.
 - **Searchable**: Use GitHub's `File Search` (shortcut `t`) to find specific certifications.
-- **Community Driven**: All content is open-source and maintained by volunteers.
+- **Maintained by Certilum**: Original content, open under MIT for educational use. Corrections via Issues are welcome.
+
+---
+
+## Why open source?
+
+We believe candidates should have access
+to useful practice material before deciding
+whether they need a full preparation platform.
 
 ---
 
 ## Contributing
 
-Found an error or want to add a new certification? We love contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to get involved.
+Found an error? Open an Issue. This repo is maintained by Certilum — see [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to report corrections.
 
 ---
 
@@ -852,6 +856,6 @@ This project is licensed under the MIT License. Question content is available fo
 ---
 
 <p align="center">
-  <b>Built with ❤️ by the community & supported by <a href="https://certilum.com/">Certilum</a></b><br>
-  <i>Better preparation, better careers.</i>
+  <b>Maintained by <a href="https://certilum.com/">Certilum</a></b><br>
+  <i>Original practice material, free and open.</i>
 </p>
