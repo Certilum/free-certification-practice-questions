@@ -548,10 +548,10 @@ db.collection.createIndex({ tags: 1 })
 
 ### 25. Select all true statements about compound indexes and the index prefix rule.
 
-- [ ] **A)** 
-- [ ] **B)** 
+- [ ] **A)** An index on { a: 1, b: 1 } efficiently supports queries on b alone without a
+- [ ] **B)** Field order in a compound index does not affect which queries can use it
 - [ ] **C)** The order of fields in a compound index is significant because of the prefix rule.
-- [ ] **D)** 
+- [ ] **D)** A compound index can only be used when all its fields appear with equality matches
 
 <details>
 <summary> 🔍 Reveal Answer</summary>

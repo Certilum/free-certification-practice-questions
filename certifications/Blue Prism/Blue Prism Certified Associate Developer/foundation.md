@@ -658,7 +658,7 @@ Loop
  
 </details>
 
-### 30. Which of the following stages can be used to read data from an application into a Data Item? (Select all that apply)
+### 30. Which of the following stages can be used to read data from an application into a Data Item?
 
 - [ ] **A)** Read Stage
 - [ ] **B)** Wait Stage

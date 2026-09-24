@@ -163,7 +163,7 @@ CMD ["npm", "start"]
 - [ ] **A)** FROM node:18-alpine
 - [ ] **B)** WORKDIR /app
 - [ ] **C)** RUN npm install
-- [ ] **D)** 
+- [ ] **D)** COPY . /app
 
 <details>
 <summary> 🔍 Reveal Answer</summary>

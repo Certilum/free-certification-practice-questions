@@ -624,7 +624,7 @@ index=main | `my_macro(ERROR)`
 
 - [ ] **A)** `my_macro`
 - [ ] **B)** my_macro
-- [ ] **C)** 
+- [ ] **C)** $my_macro$
 - [ ] **D)** [my_macro]
 
 <details>
@@ -649,7 +649,7 @@ index=main | `my_macro(ERROR)`
 - [ ] **A)** Backtick (`)
 - [ ] **B)** Parentheses ( )
 - [ ] **C)** Dollar signs ($)
-- [ ] **D)** 
+- [ ] **D)** Square brackets ([ ])
 
 <details>
 <summary> 🔍 Reveal Answer</summary>

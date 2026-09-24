@@ -84,15 +84,15 @@
 replicaCount: 3
 ```
 
-- [ ] **A)** 
-- [ ] **B)** 
-- [ ] **C)** 
-- [ ] **D)** 
+- [ ] **A)** {{ .Values.replicaCount }}
+- [ ] **B)** {{ .replicaCount }}
+- [ ] **C)** {{ values.replicaCount }}
+- [ ] **D)** {{ .Chart.replicaCount }}
 
 <details>
 <summary> 🔍 Reveal Answer</summary>
    
-#### **✅ Correct Answer: **
+#### **✅ Correct Answer: A**
  
 > 💡  **Explanation** 
 > 

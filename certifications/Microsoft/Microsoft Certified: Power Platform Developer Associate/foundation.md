@@ -358,9 +358,9 @@ public void Execute(IServiceProvider serviceProvider)
 ```
 
 - [ ] **A)** context.Depth > 1
-- [ ] **B)** 
+- [ ] **B)** context.MessageName == "Create"
 - [ ] **C)** context.Stage == 10
-- [ ] **D)** 
+- [ ] **D)** context.IsInTransaction == true
 
 <details>
 <summary> 🔍 Reveal Answer</summary>

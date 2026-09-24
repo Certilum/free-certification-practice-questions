@@ -88,15 +88,15 @@
 db.orders.createIndex({ a: 1, b: 1 })
 ```
 
-- [ ] **A)** 
-- [ ] **B)** 
-- [ ] **C)** 
-- [ ] **D)** 
+- [ ] **A)** db.orders.find({ a: 5 })
+- [ ] **B)** db.orders.find({ b: 5 })
+- [ ] **C)** db.orders.find({}).sort({ b: 1 })
+- [ ] **D)** db.orders.find({ c: 5 })
 
 <details>
 <summary> 🔍 Reveal Answer</summary>
    
-#### **✅ Correct Answer: **
+#### **✅ Correct Answer: A**
  
 > 💡  **Explanation** 
 > 
@@ -446,8 +446,8 @@ db.people.find({ status: "active" }).sort({ age: -1 })
 
 - [ ] **A)** Field order in a compound index is paramount
 - [ ] **B)** Compound indexes follow increasing selectivity
-- [ ] **C)** 
-- [ ] **D)** 
+- [ ] **C)** A compound index can be used starting from any field, regardless of order
+- [ ] **D)** Sort direction is irrelevant in compound indexes
 
 <details>
 <summary> 🔍 Reveal Answer</summary>
@@ -596,7 +596,7 @@ db.collection.createIndex({ a: 1, b: 1 })
 
 ### 27. Which of the following are common mistakes when working with MongoDB indexes? Select all that apply.
 
-- [ ] **A)** 
+- [ ] **A)** Ignoring the index prefix rule when querying a compound index
 - [ ] **B)** Assuming single-field indexes are direction-agnostic for sort operations
 - [ ] **C)** Creating indexes on every field to cover all queries
 - [ ] **D)** Using a TTL index on a BSON date field
@@ -604,7 +604,7 @@ db.collection.createIndex({ a: 1, b: 1 })
 <details>
 <summary> 🔍 Reveal Answer</summary>
    
-#### **✅ Correct Answer: C**
+#### **✅ Correct Answer: A, C**
  
 > 💡  **Explanation** 
 > 

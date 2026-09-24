@@ -692,10 +692,10 @@ response = {
 }
 ```
 
-- [ ] **A)** 
-- [ ] **B)** 
-- [ ] **C)** 
-- [ ] **D)** 
+- [ ] **A)** response['response']['taskId']
+- [ ] **B)** response['taskId']
+- [ ] **C)** response['response']['id']
+- [ ] **D)** response.taskId
 
 <details>
 <summary> 🔍 Reveal Answer</summary>
